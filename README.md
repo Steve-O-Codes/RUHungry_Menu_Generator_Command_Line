@@ -4,7 +4,7 @@
 _______________________________________________________________________________________________________
 
 
-This is my first ever project working with JS.    
+This is my first project working with JS.    
 I have created a console application called RUHungry. 
 The code for the project can be found in the RUHungry.js file.      
 
@@ -32,7 +32,9 @@ I would like to nake this into a web app, that offers more customisation for use
 I would like to also add features that allow for ranking of the dishes and for dishes to be removed if they were not    
 liked by the user. 
 
-As my coding skills progress I aim to imporve upon this simple app as I beleive it is a good idea. 
+#### Technolgies Used:
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
 
 #### **_References:_**         
