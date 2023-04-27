@@ -6,7 +6,8 @@ ________________________________________________________________________________
 
 This is my first project working with JS.    
 I have created a console application called RUHungry. 
-The code for the project can be found in the RUHungry.js file.      
+The code for the project can be found in the RUHungry.js file. 
+
 
 #### Description 📚:    
 
